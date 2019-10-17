@@ -11,7 +11,7 @@ For each machine a user wishes to use this app on, the user must create their ow
 
 The following two or three steps must be performed together to run this app. First, from the terminal command line, a user must type node liri.js. Secondly, following this on the same line, a command must be typed, either concert-this, spotify-this-song, movie-this, or do-what-it-says. Thirdly, still on the same line, for concert-this, spotify-this-song, or movie-this, these commands must be followed by the corresponding command selection, either <artist/band name>, <song name>, or <movie name> respectfully.  For the command do-what-it-says, the third step is not needed.  The do-what-it-says command randomly uses a command and corresponding selection defined in the random.txt file.
 
-## Link to Published Version
+## Link to Online Version
 The app is available at https://github.com/jkoenig19/liri-node-app.
 
 ## List of Technologies Used in the App
